@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Exercicio3 {
     public static void main(String[] args) throws Exception {
         try (Scanner Input = new Scanner(System.in)) {
             System.out.println("Informe o valor da base maior:");
