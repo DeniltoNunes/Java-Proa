@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Exercicio4 {
     public static void main(String[] args) throws Exception {
         try (Scanner Input = new Scanner(System.in)) {
             System.out.println("Informe o valor de A (Número com x²):");
